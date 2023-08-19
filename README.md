@@ -1,7 +1,7 @@
 <div align="center">
     <div style="text-align: justify;">
     <h1><b>About me</b></h1>
-    <p>Hello, my name is Vitor! I'm a Software Engineer interested in Backend Development, DevOps, and Distributed Computing. I like to run and spend my free time  with my family, listening to music, reading, and trying to learn new things. Feel free to contact me! :smiley:</p>
+    <p>Hello, my name is Vitor! I'm a Software Engineer student interested in Backend Development, DevOps, and Distributed Computing. I like to run and spend my free time  with my family, listening to music, reading, and trying to learn new things. Feel free to contact me! :smiley:</p>
 <div style="text-align: center;">
     <h1><b>Current Technology Stack</b></h1>
     <div>
