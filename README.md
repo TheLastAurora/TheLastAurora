@@ -6,7 +6,7 @@
     <h1><b>Current Technology Stack</b></h1>
     <div>
             <img src="https://img.shields.io/badge/python-DATA_SCIENCE-black?style=for-the-badge&logo=python&logoColor=white&label=PYTHON&labelColor=3776AB&color=white" alt="Python Badge">
-            <img src="https://img.shields.io/badge/typescript-WEB_DEVELOPMENT-white?style=for-the-badge&logo=typescript&logoColor=white&label=TYPESCRIPT&labelColor=3178C6&color=white" alt="TypeScript Badge">
+            <img src="https://img.shields.io/badge/Airflow-ORQUESTRATION-black?style=for-the-badge&logo=Apache%20Airflow&logoColor=white&label=AIRFLOW&labelColor=red&color=white">
             <img src="https://img.shields.io/badge/amazon_aws-CLOUD-white?style=for-the-badge&logo=amazonaws&logoColor=white&label=AMAZON%20AWS&labelColor=232F3E&color=white" alt="Amazon AWS Badge">
     </div>
     <div>
